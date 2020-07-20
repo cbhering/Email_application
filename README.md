@@ -1,4 +1,4 @@
-# Email_application
+# Email Application in Java
 
 Simple console email application coded in Java with Eclipse.
 
